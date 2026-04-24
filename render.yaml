@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: deccl-ultra-core
+    runtime: docker
+    plan: free
